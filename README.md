@@ -1,3 +1,3 @@
 # horse-script
-Google Chrome Extension
+Google Chrome Extension<br>
 if u want a key DM ME :)
