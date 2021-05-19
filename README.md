@@ -1,5 +1,5 @@
 # 🐴horse-script🐴
 •Google Chrome Extension for Cop Supreme Item<br>
-•Autofill, autocart, embed in your personal webhook in Discord <img src="https://icon-icons.com/icon/discord/101785">
+•Autofill, autocart, embed in your personal webhook in Discord
 <br>
 •Cop with paypal or credit card<br>
