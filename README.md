@@ -1,5 +1,5 @@
-# <h1>🐴horse-script🐴</h1>
-<h3>•Google Chrome Extension for Cop Supreme Item</h3>
-<h3>•Autofill, autocart and embed in your personal webhook in Discord</h3>
-<h3>•Cop with paypal or credit card</h3>
+# <h1>🐴Horse-Script🐴</h1>
+<h4>•Google Chrome Extension for Cop Supreme Item</h4>
+<h4>•Autofill, autocart and embed in your personal webhook in Discord</h4>
+<h4>•Cop with paypal or credit card</h4>
 <img src="https://i.ibb.co/fdm5k8j/Cattura.jpg"></img>
