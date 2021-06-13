@@ -5,7 +5,7 @@
 <h4>•You need a key for use the script :)</h4>
 <hr>
 
-<h3>Changelog</h3>
+<h3>Changelog V 1.1</h3>
 
 ```
 -New GUI
