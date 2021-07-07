@@ -29,7 +29,7 @@
 ```
 <hr>
 
-<h3 style="color: #c4601a">Embed example</h3>
+<h3 style="color:#c4601a;">Embed example</h3>
 <img src="https://i.ibb.co/k6LVp4D/Embed.jpg">
 <h3>Popup preview</h3>
 <img src="https://i.ibb.co/G2PVhvs/popup.jpg">
