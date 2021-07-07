@@ -1,5 +1,5 @@
 # <h1>🐴Horse-Script🐴</h1>
-<h4>•Google Chrome Extension for Cop Supreme Item</h4>
+<h1>•Google Chrome Extension for Cop Supreme Item</h1>
 <h4>•Autofill, autocart and embed in your personal webhook for Discord</h4>
 <h4>•Cop with paypal or credit card</h4>
 <h4>•You need a key for use the script :)</h4>
@@ -17,4 +17,19 @@
 
 ```
 
-<img src="https://i.ibb.co/fdm5k8j/Cattura.jpg"></img>
+<h3>Changelog V 1.2</h3>
+
+```
+-Add specific sizes
+-Add metadata
+-Now is possible RESET the key in login page and use the extension only in one machine
+-Security improvements
+-Fix embed errors in personal webhook
+
+```
+<hr>
+
+<h3>Embed example</h3>
+<img src="https://ibb.co/tP0wSq2"></img>
+<h3>Popup preview</h3>
+<img src="https://ibb.co/d2KQh0b"></img>
