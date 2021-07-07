@@ -3,6 +3,7 @@
 <p>•Autofill, autocart and embed in your personal webhook for Discord</p>
 <p>•Cop with paypal or credit card</p>
 <p>•You need a key for use the script :)</p>
+
 <hr>
 
 <h3>Changelog V 1.1</h3>
@@ -29,7 +30,7 @@
 ```
 <hr>
 
-<h3 style="color:#c4601a;">Embed example</h3>
+<h3>Embed example</h3>
 <img src="https://i.ibb.co/k6LVp4D/Embed.jpg">
 <h3>Popup preview</h3>
 <img src="https://i.ibb.co/G2PVhvs/popup.jpg">
