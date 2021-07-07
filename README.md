@@ -1,8 +1,8 @@
 # <h1>🐴Horse-Script🐴</h1>
-<h1>•Google Chrome Extension for Cop Supreme Item</h1>
-<h4>•Autofill, autocart and embed in your personal webhook for Discord</h4>
-<h4>•Cop with paypal or credit card</h4>
-<h4>•You need a key for use the script :)</h4>
+<h2>Google Chrome Extension for Cop Supreme Item</h2>
+<p>•Autofill, autocart and embed in your personal webhook for Discord</p>
+<p>•Cop with paypal or credit card</p>
+<p>•You need a key for use the script :)</p>
 <hr>
 
 <h3>Changelog V 1.1</h3>
