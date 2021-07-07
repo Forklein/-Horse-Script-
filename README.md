@@ -30,6 +30,6 @@
 <hr>
 
 <h3>Embed example</h3>
-<img src="https://ibb.co/tP0wSq2"></img>
+<img src="https://i.ibb.co/k6LVp4D/Embed.jpg">
 <h3>Popup preview</h3>
-<img src="https://ibb.co/d2KQh0b"></img>
+<img src="https://i.ibb.co/G2PVhvs/popup.jpg">
