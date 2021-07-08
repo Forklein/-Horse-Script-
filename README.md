@@ -15,6 +15,17 @@
 
 <hr>
 
+<h1>How to install</h1>
+<ol>
+  <li>Download the latest version from </li>
+  <li>Extract the .zip archive in a dedicated folder on your PC (for example in Documents or Home)</li>
+  <li>Open Chrome and to go: chrome://extensions/</li>
+  <li>On the right side enable 'Developer mode'</li>
+  <li>Click on 'load unpacked' on the left side and choose the folder where you have previously extract the .zip. Make sure that you select the folder that contains the file 'manifest.json'</li>
+</ol>
+
+<hr>
+
 <h1>Changelog</h1>
 
 <h3>Changelog V 1.2</h3>
