@@ -28,7 +28,7 @@
 
 <h1>Changelog</h1>
 
-<h3>Changelog V 1.2</h3>
+<h3>Changelog v 1.2</h3>
 
 ```
 -Add specific sizes
@@ -40,7 +40,7 @@
 ```
 <hr>
 
-<h3>Changelog V 1.1</h3>
+<h3>Changelog v 1.1</h3>
 
 ```
 -New GUI
