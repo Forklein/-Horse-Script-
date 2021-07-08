@@ -7,10 +7,10 @@
 
 <hr>
 
-<h3>Popup preview</h3>
+<h3>POPUP PREVIEW</h3>
 <img src="https://i.ibb.co/2SVtj1L/popup.jpg">
 <hr>
-<h3>Embed example</h3>
+<h3>EMBED EXAMPLE</h3>
 <img src="https://i.ibb.co/k6LVp4D/Embed.jpg">
 
 <hr>
