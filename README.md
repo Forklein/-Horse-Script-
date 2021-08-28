@@ -28,6 +28,17 @@
 
 <h1>Changelog</h1>
 
+<h3>Changelog v 1.3</h3>
+
+```
+-Stability improvements
+-Fixed key Reset
+-Added all Regions in profile
+-Various fixes for Supreme
+
+```
+<hr>
+
 <h3>Changelog v 1.2</h3>
 
 ```
