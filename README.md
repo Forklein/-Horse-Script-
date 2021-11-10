@@ -28,6 +28,13 @@
 
 <h1>Changelog</h1>
 
+<h3>Changelog v 1.4</h3>
+
+```
+-Stability improvements
+-Important fix for autofill checkout
+```
+
 <h3>Changelog v 1.3</h3>
 
 ```
